@@ -1,0 +1,7 @@
+.idea/
+.python-version
+*.html
+*.css
+.pyenv-requirements
+*.docset.tgz
+docSet.dsidx
